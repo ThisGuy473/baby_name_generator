@@ -2,6 +2,7 @@
 This program allows you to input all options for your possible baby names and then gives you all the combinations.
 
 !!Important!! This was written in python 3 and has not been tested in python 2
+
 Steps:
   1. Open your terminal
   2. Navigate to the directory that BabyNameGenerator.py is located
