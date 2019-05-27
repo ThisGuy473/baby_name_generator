@@ -1,4 +1,4 @@
- Baby_Name_Generator
+#baby_name_generator
 by Jeffrey Day
         
 
@@ -7,7 +7,7 @@ This program allows you to input all options for your possible baby names and th
 
 !!Important!! This was written in python 3 and has not been tested in python 2
 
-Steps:
+usage
   1. Open your terminal
   2. Navigate to the directory that BabyNameGenerator.py is located
   3. Run BabyNameGenerator.py using command(UBUNTU).. python3 BabyNameGenerator.py
